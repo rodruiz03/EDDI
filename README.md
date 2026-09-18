@@ -1,2 +1,2 @@
 # EDDI
-Proyectos de Java en Apache/VS
+Proyectos de Python en VS
